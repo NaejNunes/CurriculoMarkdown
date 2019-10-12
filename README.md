@@ -1,6 +1,6 @@
 # CurriculoMarkdown
 
-![Jean Nunes](https://media.licdn.com/dms/image/C4D03AQGQjDPVMSDmeA/profile-displayphoto-shrink_200_200/0?e=1568851200&v=beta&t=7AuzKBRHOSU-HtZb44TJhHDJdvR_Lmrxje9_hmZdGOU)
+![Jean Nunes](https://avatars1.githubusercontent.com/u/42788439?s=460&v=4)
 
 
 **Jean Carlos da Nóbrega Nunes**
@@ -27,10 +27,10 @@ Casado.
 Brasileiro.
 
 ### Objetivo
-Atuar na area de desenvolvimento de jogos disposto a ajudar a empresa no que estiver ao seu alcance
+Atuar na area de desenvolvimento de jogos disposto a ajudar a empresa no que estiver ao meu alcance
 
 ### Formação
-- Encino meio completo.
+- Encino médio completo.
 - Cursando Técnico em Desenvolvimento de jogos digitais.
 
 ### Experiencia Profissional
