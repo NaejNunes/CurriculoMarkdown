@@ -27,10 +27,10 @@ Casado.
 Brasileiro.
 
 ### Objetivo
-Atuar na area de desenvolvimento de jogos disposto a ajudar a empresa no que estiver ao meu alcance
+Atuar na área de desenvolvimento de jogos disposto a ajudar a empresa no que estiver ao meu alcance
 
 ### Formação
-- Encino médio completo.
+- Ensino médio completo.
 - Cursando Técnico em Desenvolvimento de jogos digitais.
 
 ### Experiencia Profissional
