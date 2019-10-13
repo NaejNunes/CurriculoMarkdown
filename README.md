@@ -34,8 +34,8 @@ Atuar na area de desenvolvimento de jogos disposto a ajudar a empresa no que est
 - Cursando Técnico em Desenvolvimento de jogos digitais.
 
 ### Experiencia Profissional
--Projetos com desenvolvimento autorais.
--Liderar equipes de profissionais.
+- Projetos com desenvolvimento autorais.
+- Liderar equipes de profissionais.
 
 ### Informações adicionais 
 - Hardware
